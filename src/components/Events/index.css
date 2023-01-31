@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.events-card {
+  width: 65vw;
+  background-color: #323f4b;
+  padding: 30px;
+}
+.status-card {
+  width: 35vw;
+  padding: 30px;
+}
+
+.events-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.heading {
+  margin-left: 60px;
+  color: #ffffff;
+}

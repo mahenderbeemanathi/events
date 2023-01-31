@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.event {
+  margin: 25px;
+  width: 40%;
+}
+.event-img {
+  height: 200px;
+  width: 250px;
+}
+.event-name {
+  font-size: 20px;
+}
+.button {
+  border-style: none;
+}
